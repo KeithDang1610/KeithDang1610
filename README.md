@@ -1,7 +1,7 @@
 # Hey there, I'm Ky (also called Keith)
-### People often say "It's never too late to learn", and I wholeheartedly believe in this proverb. My journey began in an unexpected way. Starting out in a technical field, I worked as a lab instructor at my university helping many undergraduate students. After years of working, learning, and accumulating experience, I unexpectedly found myself drawn to a new field, where I could explore more about potential and mindset.
-### - I delved into CODING, DATA, AND ANALYSIS, and I became more excited about the skills I was acquiring, as well as the programming languages I was experiencing, such as PYTHON, SQL, R, SPREADSHEETS, and data visualization tools like TABLEAU.
-### - This journey has been a transformative experience, igniting a passion for data-driven insights and problem-solving. I am eager to continue learning and growing in the field of DATA ANALYSIS, and DATA SCIENCE so far. 
+#### People often say "It's never too late to learn", and I wholeheartedly believe in this proverb. My journey began in an unexpected way. Starting out in a technical field, I worked as a lab instructor at my university helping many undergraduate students. After years of working, learning, and accumulating experience, I unexpectedly found myself drawn to a new field, where I could explore more about potential and mindset.
+#### - I delved into CODING, DATA, AND ANALYSIS, and I became more excited about the skills I was acquiring, as well as the programming languages I was experiencing, such as PYTHON, SQL, R, SPREADSHEETS, and data visualization tools like TABLEAU.
+#### - This journey has been a transformative experience, igniting a passion for data-driven insights and problem-solving. I am eager to continue learning and growing in the field of DATA ANALYSIS, and DATA SCIENCE so far. 
 
 ### Certificates:
 Google Data Analytics| GOOGLE| May 2024
