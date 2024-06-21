@@ -1,5 +1,5 @@
 # Hey there, I'm Ky (also called Keith)
-### People often say "It's never too late to learn", and I wholeheartedly believe in this proverb. My journey began in an unexpected way. Starting out in a technical field, I worked as a lab instructor at my university helping many undergraduate students. After years of working, learning, accumulating experience, I unexpectedly found myself drawn to a new field, where I could explore more about potential and mindset.
+### People often say "It's never too late to learn", and I wholeheartedly believe in this proverb. My journey began in an unexpected way. Starting out in a technical field, I worked as a lab instructor at my university helping many undergraduate students. After years of working, learning, and accumulating experience, I unexpectedly found myself drawn to a new field, where I could explore more about potential and mindset.
 #### I delved into CODING, DATA, AND ANALYSIS, and I became more excited about the skills I was acquiring, as well as the programming languages I was experiencing, such as PYTHON, SQL, R, SPREADSHEETS and data visualization tools like TABLEAU.
 #### This journey has been a transformative experience, igniting a passion for data-driven insights and problem-solving. I am eager to continue learning and growing in the field of DATA ANALYSIS, and DATA SCIENCE so far. 
 
@@ -25,9 +25,14 @@ keith.dang1610@gmail.com
 ### I can speak with these languages (^ ^):
 [![image](https://github.com/KeithDang1610/KeithDang/assets/167521177/ca1051f3-8604-46cf-8020-9589735a04d6)
 ](https://www.python.org/)
-[![image](https://github.com/KeithDang1610/KeithDang/assets/167521177/605bcfbf-e408-456e-9f3d-bcf8980eb14a)
+[![image](https://github.com/KeithDang1610/KeithDang/assets/167521177/27053fb9-de12-4fb5-a87c-e987d7df6e42)
+](https://pandas.pydata.org/)
+[![image](https://github.com/KeithDang1610/KeithDang/assets/167521177/df359e32-35d5-4986-b9a3-a05bb6445c57)
+](https://www.w3schools.com/sql/)
+[![image](https://github.com/KeithDang1610/KeithDang/assets/167521177/804cf96a-e7d8-4452-98b0-cca148ce4ccd)
 ](https://www.rdocumentation.org/)
-
+[![image](https://github.com/KeithDang1610/KeithDang/assets/167521177/6363a6c1-e222-4d62-8161-019148619f9e)
+](https://public.tableau.com/app/discover)
 
 
 
