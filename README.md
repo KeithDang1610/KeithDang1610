@@ -16,7 +16,8 @@ SQL (Intermediate) Certificate| HackerRank| June 2024
 
 SQL (Advanced) Certificate| HackerRank| June 2024
 
-<img width="403" alt="Capture2" src="https://github.com/KeithDang1610/KeithDang1610/assets/167521177/4feb9272-02bc-4ae3-b93c-8fc54491ff25">
+<img width="514" alt="Capture2" src="https://github.com/KeithDang1610/KeithDang1610/assets/167521177/e7a41129-74cf-4a65-9e23-9dc81e55a744">
+
 
 
 ### Degrees:
