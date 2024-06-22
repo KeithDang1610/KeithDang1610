@@ -14,6 +14,9 @@ SQL (Intermediate) Certificate| HackerRank| June 2024
 
 <img width="605" alt="Capture" src="https://github.com/KeithDang1610/KeithDang/assets/167521177/041d04c2-32c6-40d5-8854-673e7f827140">
 
+SQL (Advanced) Certificate| HackerRank| June 2024
+![image](https://github.com/KeithDang1610/KeithDang1610/assets/167521177/371d9f08-6a34-401a-877b-b06e83a57a91)
+
 ### Degrees:
 Master's Degree in Mechanical Engineering (From Top University of Viet Nam):
 ![master's degree](https://github.com/KeithDang1610/KeithDang/assets/167521177/9ef6aa57-8abd-413b-8483-e238d0f3ec05)
