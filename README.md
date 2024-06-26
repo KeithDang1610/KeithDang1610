@@ -30,7 +30,7 @@ keith.dang1610@gmail.com
 [![image](https://github.com/KeithDang1610/KeithDang/assets/167521177/a41d2898-9520-432a-bb62-91b2632b0a1b)
 ](https://www.linkedin.com/in/ky-dang-ba802b2b8/)
 [![image](https://github.com/KeithDang1610/KeithDang/assets/167521177/57a53759-7e77-40e5-a09d-202ee6b8b145)
-](https://www.hackerrank.com/profile/keith_dang1610)
+](https://www.hackerrank.com/certificates/27482e8b0b75)
 
 ### I can speak with these languages (^ ^):
 [![image](https://github.com/KeithDang1610/KeithDang/assets/167521177/ca1051f3-8604-46cf-8020-9589735a04d6)
