@@ -4,8 +4,9 @@
 #### - This journey has been a transformative experience, igniting a passion for data-driven insights and problem-solving. I am eager to continue learning and growing in the field of DATA ANALYSIS, and DATA SCIENCE so far. 
 
 ### Certificates:
+<p align="center">
 <img width="500" alt="Capture" src="https://github.com/user-attachments/assets/3b55783a-8773-4760-98fc-53fc0c895135">
-
+</p>
 Google Data Analytics| GOOGLE| May 2024
 ![image](https://github.com/KeithDang1610/KeithDang/assets/167521177/7d26dd6d-7dd7-4fd8-b3af-0403cdfd19e5)
 
