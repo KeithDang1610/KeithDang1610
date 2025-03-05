@@ -1,7 +1,7 @@
 # Hey there, I'm Ky (also called Keith)
 #### People often say "It's never too late to learn", and I wholeheartedly believe in this proverb. My journey began in an unexpected way. Starting out in a technical field, I worked as a lab instructor at my university helping many undergraduate students. After years of working, learning, and accumulating experience, I unexpectedly found myself drawn to a new field, where I could explore more about potential and mindset.
 #### - I delved into CODING, DATA ENGINEERING, AND ANALYSIS, and I became more excited about the skills I was acquiring, as well as the programming languages I was experiencing, such as PYTHON, SQL, R, SPREADSHEETS, and data visualization tools like TABLEAU.
-#### - This journey has been a transformative experience, igniting a passion for data-driven insights and problem-solving. I am eager to continue learning and growing in the field of DATA ANALYSIS, and DATA SCIENCE so far. 
+#### - This journey has been a transformative experience, fueling my passion for building scalable data systems and solving complex engineering challenges. I am excited to further deepen my expertise in Data Engineering, where I can continue designing efficient pipelines, optimizing data infrastructure, and unlocking the power of data to drive impactful decisions.
 
 ### Certificates:
 [Airflow Fundamental badge:](https://www.credly.com/badges/4a757ca5-4202-4f5f-a875-5e6384bf969c/linked_in_profile) 
