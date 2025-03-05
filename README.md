@@ -22,9 +22,13 @@ SQL (Intermediate) Certificate| HackerRank| June 2024
 
 SQL (Advanced) Certificate| HackerRank| June 2024
 
-<img width="514" alt="Capture2" src="https://github.com/KeithDang1610/KeithDang1610/assets/167521177/e7a41129-74cf-4a65-9e23-9dc81e55a744">
+<img width="605" alt="Capture2" src="https://github.com/KeithDang1610/KeithDang1610/assets/167521177/e7a41129-74cf-4a65-9e23-9dc81e55a744">
 
+### Intern Certifications:
 
+[Data Glacier:](https://mail.google.com/mail/u/0/#search/galicer?projector=1)
+
+[Quantium:](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Quantium/NkaC7knWtjSbi6aYv_Quantium_CrvtF3b7u2pg9LdHE_1721638904393_completion_certificate.pdf)
 
 ### Degrees:
 Master's Degree in Mechanical Engineering (From Top University of Viet Nam):
