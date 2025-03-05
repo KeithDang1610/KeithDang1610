@@ -28,8 +28,7 @@ SQL (Advanced) Certificate| HackerRank| June 2024
 
 <img width="403" alt="Glacier_Completion_letter" src="https://github.com/user-attachments/assets/9a53c769-455f-4372-9060-2685df51081f" />
 
-
-<img width="557" alt="Quantium_Completion_letter" src="https://github.com/user-attachments/assets/afe95657-52bc-4e0b-98de-e2da19a7ef59" />
+<img width="403" alt="Quantium_Completion_letter" src="https://github.com/user-attachments/assets/afe95657-52bc-4e0b-98de-e2da19a7ef59" />
 
 [Quantium:](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Quantium/NkaC7knWtjSbi6aYv_Quantium_CrvtF3b7u2pg9LdHE_1721638904393_completion_certificate.pdf)
 
