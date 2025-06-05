@@ -1,9 +1,16 @@
 # Hey there, I'm Ky (also called Keith)
-#### People often say "It's never too late to learn", and I wholeheartedly believe in this proverb. My journey began in an unexpected way. Starting out in a technical field, I worked as a lab instructor at my university helping many undergraduate students. After years of working, learning, and accumulating experience, I unexpectedly found myself drawn to a new field, where I could explore more about potential and mindset.
+#### People often say, "It's never too late to learn", and I wholeheartedly believe in this proverb. My journey began in an unexpected way. Starting out in a technical field, I worked as a lab instructor at my university, helping many undergraduate students. After years of working, learning, and accumulating experience, I unexpectedly found myself drawn to a new field, where I could explore more about potential and mindset.
 #### - I delved into CODING, DATA ENGINEERING, AND ANALYSIS, and I became more excited about the skills I was acquiring, as well as the programming languages I was experiencing, such as PYTHON, SQL, R, SPREADSHEETS, and data visualization tools like TABLEAU.
 #### - This journey has been a transformative experience, fueling my passion for building scalable data systems and solving complex engineering challenges. I am excited to further deepen my expertise in Data Engineering, where I can continue designing efficient pipelines, optimizing data infrastructure, and unlocking the power of data to drive impactful decisions.
 
 ### Certificates:
+
+[Fabric Data Engineer Associate| MICROSOFT| May 2025:]([https://www.credly.com/badges/4a757ca5-4202-4f5f-a875-5e6384bf969c/linked_in_profile](https://learn.microsoft.com/api/credentials/share/en-us/KyDang-9650/78AB0CDA71FB351A?sharingId=BC29279FF41680AD))
+
+<p align="center">
+<img width="605" alt="microsoft-certified-associate-badge" src="https://github.com/user-attachments/assets/456ffb62-48d0-4c80-8a0b-ecb6cc7e0948" />
+</p>
+
 [Airflow Fundamental badge:](https://www.credly.com/badges/4a757ca5-4202-4f5f-a875-5e6384bf969c/linked_in_profile) 
 
 <p align="center">
@@ -18,11 +25,15 @@ Google Business Intelligence Professional| GOOGLE| March 2024
 
 SQL (Intermediate) Certificate| HackerRank| June 2024
 
+<p align="center">
 <img width="605" alt="Capture" src="https://github.com/KeithDang1610/KeithDang/assets/167521177/041d04c2-32c6-40d5-8854-673e7f827140">
+</p>
 
 SQL (Advanced) Certificate| HackerRank| June 2024
 
+<p align="center">
 <img width="605" alt="Capture2" src="https://github.com/KeithDang1610/KeithDang1610/assets/167521177/e7a41129-74cf-4a65-9e23-9dc81e55a744">
+</p>
 
 ### Intern Certifications:
 
