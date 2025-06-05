@@ -1,4 +1,4 @@
-# Hey there, I'm Ky (also called Keith)
+# Hey there, I'm Ky (go by Keith)
 #### People often say, "It's never too late to learn", and I wholeheartedly believe in this proverb. My journey began in an unexpected way. Starting out in a technical field, I worked as a lab instructor at my university, helping many undergraduate students. After years of working, learning, and accumulating experience, I unexpectedly found myself drawn to a new field, where I could explore more about potential and mindset.
 #### - I delved into CODING, DATA ENGINEERING, AND ANALYSIS, and I became more excited about the skills I was acquiring, as well as the programming languages I was experiencing, such as PYTHON, SQL, R, SPREADSHEETS, and data visualization tools like TABLEAU.
 #### - This journey has been a transformative experience, fueling my passion for building scalable data systems and solving complex engineering challenges. I am excited to further deepen my expertise in Data Engineering, where I can continue designing efficient pipelines, optimizing data infrastructure, and unlocking the power of data to drive impactful decisions.
